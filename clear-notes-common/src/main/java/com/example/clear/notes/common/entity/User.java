@@ -10,10 +10,9 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * User entity.
- *
- * @author Evan
- * @date 2019/4
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 @Data
 @NoArgsConstructor

@@ -8,10 +8,9 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * Relations between users and role.
- *
- * @author Evan
- * @date 2019/11
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 @Data
 @Entity

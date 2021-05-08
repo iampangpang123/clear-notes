@@ -3,9 +3,9 @@ package com.example.clear.notes.common.util;
 import java.util.Random;
 
 /**
- * Utils for handle strings.
- * @author Evan
- * @date 2020/3/2 21:04
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 public class StringUtils {
     public static String getRandomString(int length) {

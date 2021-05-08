@@ -1,9 +1,6 @@
 package com.example.clear.notes.common.result;
 
-/**
- * @author Evan
- * @date 2019/4
- */
+
 public enum ResultCode {
     SUCCESS(200),
     FAIL(400),

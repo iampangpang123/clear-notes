@@ -6,12 +6,10 @@ import lombok.ToString;
 
 import javax.persistence.*;
 import java.io.Serializable;
-
 /**
- * Category entity.
- *
- * @author Evan
- * @date 2019/4
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 @Data
 @Entity

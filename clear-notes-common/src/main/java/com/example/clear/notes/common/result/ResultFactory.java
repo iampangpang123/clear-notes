@@ -1,8 +1,9 @@
 package com.example.clear.notes.common.result;
 
 /**
- * @author Evan
- * @date 2019/4
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 public class ResultFactory {
 

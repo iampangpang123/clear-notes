@@ -10,10 +10,9 @@ import java.io.Serializable;
 import java.sql.Date;
 
 /**
- * Article entity.
- *
- * @author Evan
- * @date 2020/1/14 20:25
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 @Data
 @Entity

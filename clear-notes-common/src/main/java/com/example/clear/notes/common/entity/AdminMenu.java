@@ -8,10 +8,9 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Menu entity
- *
- * @author Evan
- * @date 2019/11
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 @Data
 @Entity

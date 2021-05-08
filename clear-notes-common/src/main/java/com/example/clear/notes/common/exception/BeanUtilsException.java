@@ -1,9 +1,9 @@
 package com.example.clear.notes.common.exception;
 
 /**
- * BeanUtils exception.
- *
- * @author johnniang
+ * @author 唐涛
+ * @description: TODO
+ * @date 2021/5/8
  */
 public class BeanUtilsException extends RuntimeException {
 
