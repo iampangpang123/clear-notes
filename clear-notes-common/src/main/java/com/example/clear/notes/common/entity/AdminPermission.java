@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * @author 唐涛
- * @description: TODO
+ * @description: AdminPermission
  * @date 2021/5/8
  */
 @Data

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * @author 唐涛
- * @description: TODO
+ * @description: DefaultExceptionHandler
  * @date 2021/5/8
  */
 @ControllerAdvice

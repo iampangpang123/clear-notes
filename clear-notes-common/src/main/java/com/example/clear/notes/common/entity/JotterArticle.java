@@ -11,7 +11,7 @@ import java.sql.Date;
 
 /**
  * @author 唐涛
- * @description: TODO
+ * @description: JotterArticle
  * @date 2021/5/8
  */
 @Data

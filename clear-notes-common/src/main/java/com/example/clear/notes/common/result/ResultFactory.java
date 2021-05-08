@@ -2,7 +2,7 @@ package com.example.clear.notes.common.result;
 
 /**
  * @author 唐涛
- * @description: TODO
+ * @description: ResultFactory
  * @date 2021/5/8
  */
 public class ResultFactory {
