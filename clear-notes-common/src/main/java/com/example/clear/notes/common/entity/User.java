@@ -65,7 +65,7 @@ public class User implements Serializable {
     /**
      * User status.
      */
-    private boolean enabled;
+    private Integer enabled;
 
     /**
      * Transient property for storing role owned by current user.

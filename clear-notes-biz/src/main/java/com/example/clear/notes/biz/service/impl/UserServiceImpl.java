@@ -82,7 +82,7 @@ public class UserServiceImpl implements UserService {
         user.setPhone(phone);
         email = HtmlUtils.htmlEscape(email);
         user.setEmail(email);
-        user.setEnabled(true);
+        user.setEnabled(1);
 
         if (username.equals("") || password.equals("")) {
             return 0;
@@ -112,7 +112,7 @@ public class UserServiceImpl implements UserService {
         criteria.andEqualTo("username", user.getUsername());
         User userInDB = userMapper.selectOneByExample(example);
         Optional.ofNullable(userInDB).ifPresent(value -> {
-            value.setEnabled(user.isEnabled());
+            value.setEnabled(user.getEnabled());
             userMapper.insert(value);
         });
     }
