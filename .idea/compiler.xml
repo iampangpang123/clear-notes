@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="clear-notes-service" />
+        <module name="clear-notes-controller" />
+        <module name="clear-notes-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="clear-notes-common" target="1.8" />
+      <module name="clear-notes-controller" target="1.8" />
+      <module name="clear-notes-parent" target="1.8" />
+      <module name="clear-notes-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="clear-notes-common" options="" />
+      <module name="clear-notes-controller" options="" />
+      <module name="clear-notes-service" options="" />
+    </option>
+  </component>
+</project>
